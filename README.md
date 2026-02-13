@@ -43,16 +43,6 @@ Desenvolvedor em formação focado em Ciência de Dados e Machine Learning
   <img src="https://streak-stats.demolab.com?user=dvdbot4o&theme=radical&hide_border=true&locale=pt_BR"/>
 </p>
 
----
-
-## 🧠 Área de Especialização (Em Evolução)
-
-| Tecnologia            | Nível Atual |
-|------------------------|------------|
-| 🐍 Python             | █████████░░ 75% |
-| ☕ Java                | ██████░░░░░ 55% |
-| 📊 Data Science       | █████░░░░░░ 45% |
-| 🤖 Machine Learning   | ████░░░░░░░ 35% |
 
 ---
 
