@@ -33,6 +33,7 @@ Desenvolvedor em formação focado em Ciência de Dados e Machine Learning
 - Pandas e NumPy
 - Fundamentos de Machine Learning
 - Lógica avançada
+- Estatística aplicada à análise de dados
 
 ---
 
@@ -44,14 +45,14 @@ Desenvolvedor em formação focado em Ciência de Dados e Machine Learning
 
 ---
 
-## 🧠 Linguagens Mais Utilizadas
+## 🧠 Área de Especialização (Em Evolução)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdbot4o&layout=compact&theme=radical&cache_seconds=1800"
-    height="165"
-  />
-</p>
+| Tecnologia            | Nível Atual |
+|------------------------|------------|
+| 🐍 Python             | █████████░░ 75% |
+| ☕ Java                | ██████░░░░░ 55% |
+| 📊 Data Science       | █████░░░░░░ 45% |
+| 🤖 Machine Learning   | ████░░░░░░░ 35% |
 
 ---
 
@@ -59,7 +60,9 @@ Desenvolvedor em formação focado em Ciência de Dados e Machine Learning
 
 Construir projetos reais em:
 
-- 📊 Análise de dados  
-- 🤖 Machine Learning  
+- 📊 Análise e Visualização de Dados  
+- 🤖 Modelos de Machine Learning  
 - ⚙️ Backend com Python  
 - ☕ Aplicações Java estruturadas  
+- 🧠 Projetos práticos de Ciência de Dados  
+
