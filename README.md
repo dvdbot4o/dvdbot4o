@@ -1,25 +1,19 @@
-<h1 align="center">🚀 David | Python • Java • Data Science</h1>
+<h1 align="center">David 🚀</h1>
 
 <p align="center">
-Desenvolvedor em formação focado em Ciência de Dados e Machine Learning
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=800&lines=Desenvolvedor+Python;Entusiasta+Java;Futuro+Cientista+de+Dados;Explorando+Machine+Learning"/>
+Python • Java • Data Science • Machine Learning
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre
 
-🎯 Foco em Python e Java  
-📊 Interessado em Ciência de Dados  
-🤖 Explorando Machine Learning  
-📈 Evoluindo todos os dias  
+Desenvolvedor em formação com foco em Ciência de Dados,  
+Machine Learning e Backend com Python.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠 Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode"/>
@@ -27,32 +21,18 @@ Desenvolvedor em formação focado em Ciência de Dados e Machine Learning
 
 ---
 
-## 📚 Atualmente estudando
-
-- Estruturas de Dados
-- Pandas e NumPy
-- Fundamentos de Machine Learning
-- Lógica avançada
-- Estatística aplicada à análise de dados
-
----
-
-## 📈 Minha Consistência
+## 📈 Atividade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dvdbot4o&theme=radical&hide_border=true&locale=pt_BR"/>
 </p>
 
-
 ---
 
-## 🎯 Objetivo 2026
+## 🎯 Foco Atual
 
-Construir projetos reais em:
-
-- 📊 Análise e Visualização de Dados  
-- 🤖 Modelos de Machine Learning  
-- ⚙️ Backend com Python  
-- ☕ Aplicações Java estruturadas  
-- 🧠 Projetos práticos de Ciência de Dados  
+- 📊 Análise de Dados
+- 🤖 Machine Learning
+- 🐍 Python para projetos reais
+- ☕ Aplicações estruturadas em Java
 
