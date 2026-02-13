@@ -39,9 +39,17 @@ Desenvolvedor em formação focado em Ciência de Dados e Machine Learning
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dvdbot4o&show_icons=true&theme=radical"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdbot4o&layout=compact&theme=radical"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dvdbot4o&show_icons=true&theme=radical&cache_seconds=1800" 
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdbot4o&layout=compact&theme=radical&cache_seconds=1800" 
+    height="165"
+  />
 </p>
+
 
 ---
 
